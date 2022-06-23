@@ -1,0 +1,562 @@
+ 
+
+ .registration-form {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    border-radius: 10px;
+    margin: 0 0 90px;
+  
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+ .form-group {
+    margin: 20px 0 0;
+}
+
+ .registration-form form {
+    padding: 20px;
+    background: #00000096;
+    border-radius: 10px;
+}
+
+ .form-group input,.form-group textarea {
+    background: white;
+    border: 2px solid #3f8e9f;
+}
+
+ .create-account {
+    max-width: 122px;
+    margin-left: auto;
+    display: block;
+    margin-top: 64px;
+    background: #3f8e9f !important;
+    color: #fff;
+}
+ .content_of_details_page h2 {
+    color: #153d4c;
+}
+
+img.card-img-top {
+    box-shadow: 0 10px 20px rgb(0 0 0 / 19%), 0 6px 6px rgb(0 0 0 / 23%);
+    border-radius: 10px;
+}
+
+
+
+div#accordionExample .card {
+    background: #153d4c;
+}
+
+div#accordionExample .card h2 button {
+    color: #fff !important;
+}
+
+div#accordionExample .card-body {
+    background: #fff;
+}
+
+div#accordionExample .card-body p {
+    color: #000;
+}
+
+.card-deck {
+    display: flex;
+}
+
+.card-deck .card {
+    width: 0;
+    max-width: 29%;
+    border: 2px solid #153d4c;
+}
+
+.card-deck .card img {
+    width: 100px;
+    height: 100px;
+    margin: 16px auto;
+    display: block;
+}
+
+.card-deck .card   .card-body {
+    background: #153d4c !important;
+    padding: 10px 0 0;
+}
+
+.card-deck .card .card-body a h5 {
+    color: #fff;
+}
+
+
+
+body .gradient_bc img
+{
+    width: 50px;
+    height: 50px;
+    display: block;
+    object-fit: fill;
+    margin: 14px 0;
+}
+
+
+.page-heading {
+     text-align: center;
+     background-image: url(https://kushalscreeningservices.com/images/page-heading-bg.jpg);
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     padding: 100px 0px 150px 0px;
+     color: #fff;
+}
+.page-heading h1 {
+     text-transform: capitalize;
+     font-size: 36px;
+     font-weight: 700;
+     letter-spacing: 2px;
+     margin-bottom: 18px;
+     color: #ffffff;
+}
+
+.page-heading span {
+     font-size: 15px;
+     text-transform: uppercase;
+     letter-spacing: 1px;
+     color: #e60d2d;
+     display: block;
+}
+
+
+.contact-information {
+     margin-top: 30px;
+     background: #fff;
+     padding: 30px 0;
+}
+
+.contact-information .contact-item {
+     padding: 60px 30px;
+     background-color: #f7f7f7;
+     text-align: center;
+}
+
+.contact-information .contact-item i {
+     color: #3f8e9f;
+     font-size: 48px;
+     margin-bottom: 40px;
+}
+
+.contact-information .contact-item h4 {
+     font-size: 20px;
+     font-weight: 700;
+     letter-spacing: 0.25px;
+     margin-bottom: 15px;
+}
+
+.contact-information .contact-item p {
+     margin-bottom: 20px;
+     text-align: center;
+     color: #242223;
+}
+
+.contact-information .contact-item a {
+     font-weight: 600;
+     color: #e60d2d;
+     font-size: 15px;
+}
+
+
+.section-heading {
+     text-align: center;
+     margin-bottom: 80px;
+}
+
+.section-heading h2 {
+     font-size: 36px;
+     font-weight: 600;
+     color: #1e1e1e;
+}
+
+.section-heading em {
+     font-style: normal;
+     color: #3f8e9f;
+}
+
+.section-heading span {
+     display: block;
+     margin-top: 15px;
+     text-transform: uppercase;
+     font-size: 15px;
+     color: #666;
+     letter-spacing: 1px;
+}
+
+
+/* Call Back Style */
+
+.callback-services {
+     border-top: 1px solid #eee;
+     padding-top: 140px;
+}
+
+.contact-us {
+     padding: 0;
+}
+
+.contact-us .contact-form {
+     background-color: transparent!important;
+     padding: 0!important;
+}
+
+.callback-form {
+     margin-top: 18px;
+     background: #f7f7f7;
+     padding: 50px 0;
+}
+
+.callback-form .contact-form {
+     background-color: #e60d2d;
+     padding: 60px;
+     border-radius: 5px;
+     text-align: center;
+}
+
+.callback-form .contact-form input {
+     border-radius: 20px;
+     height: 40px;
+     line-height: 40px;
+     display: inline-block;
+     padding: 0px 15px;
+     color: #6a6a6a;
+     font-size: 13px;
+     text-transform: none;
+     box-shadow: none;
+     border: none;
+     margin-bottom: 35px;
+}
+
+.callback-form .contact-form input:focus {
+     outline: none;
+     box-shadow: none;
+     border: none;
+}
+
+.callback-form .contact-form textarea {
+     border-radius: 20px;
+     height: 120px;
+     max-height: 200px;
+     min-height: 120px;
+     display: inline-block;
+     padding: 15px;
+     color: #6a6a6a;
+     font-size: 13px;
+     text-transform: none;
+     box-shadow: none;
+     border: none;
+     margin-bottom: 35px;
+}
+
+.callback-form .contact-form textarea:focus {
+     outline: none;
+     box-shadow: none;
+     border: none;
+}
+
+.callback-form .contact-form ::-webkit-input-placeholder { /* Edge */
+  color: #aaa;
+}
+.callback-form .contact-form :-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #aaa;
+}
+.callback-form .contact-form ::placeholder {
+  color: #aaa;
+}
+
+.callback-form .contact-form button.border-button {
+     background-color: transparent;
+     color: #fff;
+     border: 2px solid #fff;
+     font-size: 13px;
+     text-transform: uppercase;
+     font-weight: 700;
+     padding: 10px 28px;
+     border-radius: 30px;
+     display: inline-block;
+     transition: all 0.3s;
+     outline: none;
+     box-shadow: none;
+     text-shadow: none;
+     cursor: pointer;
+}
+
+.callback-form .contact-form button.border-button:hover {
+     background-color: #fff;
+     color: #e60d2d;
+}
+
+.contact-us .contact-form button.filled-button {
+     background-color: #3f8e9f;
+     color: #fff;
+     border: none;
+     font-size: 13px;
+     text-transform: uppercase;
+     font-weight: 700;
+     padding: 12px 30px;
+     border-radius: 30px;
+     display: inline-block;
+     transition: all 0.3s;
+     outline: none;
+     box-shadow: none;
+     text-shadow: none;
+     cursor: pointer;
+}
+
+.contact-us .contact-form button.filled-button:hover {
+     background-color: #fff;
+     color: #e60d2d;
+}
+.feature.map {
+  height: 100%;
+}
+.feature.map iframe {
+  height: 450px;
+  width: 100%;
+  border: 0;
+  filter: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale");
+  /* Firefox 10+ */
+  filter: gray;
+  /* IE6-9 */
+  -webkit-filter: grayscale(99%);
+  /* Chrome 19+ & Safari 6+ */
+  -webkit-backface-visibility: hidden;
+  /* Fix for transition flickering */
+}
+
+
+
+
+
+.page-heading h1 {
+     text-transform: capitalize;
+     font-size: 36px;
+     font-weight: 700;
+     letter-spacing: 2px;
+     margin-bottom: 18px;
+     color: #fff;
+}
+
+.page-heading span {
+     font-size: 15px;
+     text-transform: uppercase;
+     letter-spacing: 1px;
+     color: #fff;
+     display: block;
+}
+
+.more-info .right-content {
+     padding: 0 45px 45px 30px;
+}
+
+.more-info .right-content span {
+     text-transform: uppercase;
+     font-size: 15px;
+     color: #666;
+     letter-spacing: 1px;
+     margin-bottom: 10px;
+     display: block;
+}
+
+.more-info .right-content h2 {
+     font-size: 36px;
+     font-weight: 600;
+     margin-bottom: 0px;
+}
+
+.more-info .right-content em {
+     font-style: normal;
+     color: #3f8e9f;
+}
+
+.more-info .right-content p {
+     /* margin-bottom: 30px; */
+     color: #333;
+}
+
+.more-info.about-info {
+    padding: 70px 0 0;
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    font-size: 14px;
+  }
+  ::-moz-placeholder { /* Firefox 19+ */
+    font-size: 14px;
+  }
+  :-ms-input-placeholder { /* IE 10+ */
+    font-size: 14px;
+  }
+  :-moz-placeholder { /* Firefox 18- */
+    font-size: 14px;
+  }
+.innerABT {
+    box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);
+    padding: 10px;
+    border-radius: 8px;
+    min-height: 250px;
+    background: #fff;
+    margin-top: 15px;
+}
+
+.innerABT h6 {
+    text-align: center;
+    margin: 0 0 10px;
+}
+
+body .about_custom.abt-page {
+    background: #5f9ea038;
+    padding: 50px 0;
+    margin: 0;
+}
+
+
+
+.callback-form.contact-us.pay-ment {
+    margin: 0;
+}
+
+.callback-form.contact-us.pay-ment button.btn.btn-primary.btn-block {
+    max-width: 150px;
+    margin: auto;
+    background: #000;
+}
+
+.callback-form.contact-us.pay-ment .row {
+}
+
+.callback-form.contact-us.pay-ment input {
+    margin: 0;
+    border: 1px solid #3f8e9f;
+}
+
+.callback-form.contact-us.pay-ment .form-control {
+    margin: 20px 0;
+}
+
+.callback-form.contact-us.pay-ment  small#emailHelp {
+    margin: 28px 0 0;
+    text-align: left;
+}
+
+.callback-form.contact-us.pay-ment .section-heading {
+    margin-bottom: 20px;
+}
+
+
+.card.blog_card img {max-height: 129px;object-fit: fill;}
+
+.about_custom p {
+    color: #000;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+ 
+.content-section table {
+    font-family: 'Roboto', sans-serif  !important;
+    font-size: 0 !important;
+    margin: 20px 0;
+}
+
+.content-section table th span {
+    font-size: 15px !important;
+    color: #fff !important;
+}
+
+.content-section table td span {
+    font-size: 14px !important;
+    color: #153d4c !important;
+}
+
+.content-section table th {
+    background: #153d4c;
+}
+
+
+.ass-form {
+    margin: 7px 0;
+}
+
+.ass-form .bg-info {
+    background: #28cce1 !important;
+}
+
+.ass-form .bg-info h3 {
+    color: #fff;
+}
+
+.ass-form .form-group input, .ass-form .form-group textarea {
+    border: 1px solid #28cce1;
+}
+
+.ass-form .input-group-text {
+    background: #28cce1;
+    color: #fff;
+}
+
+.ass-form .input-group-text i {
+    color: #fff !important;
+}
+
+ul.f-social-m {
+    display: flex;
+    margin: 0;
+    justify-content: space-between;
+    width: 100%;
+}
+
+ul.f-social-m li {
+    width: 30px;
+    height: 30px;
+    border: 2px solid #28cce1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    border-radius: 100px;
+}
+
+ul.f-social-m li a {
+    padding: 0;
+}
+
+.foot-get-txt {
+    width: 100%;
+}
+p.MsoNormal {
+    margin: 0 0 10px;
+background: transparent !important;
+}
+
+
+.fixed_social_media {
+    display: none;
+}
+.abt-info p {
+    font-size: 18px;
+}
+
+@media screen and (max-width: 767px) { 
+.arti_cle .card-deck .card {
+    width: 100%;
+    max-width: 100%;
+}
+
+.arti_cle .card-deck {
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.arti_cle .card-deck .card img {
+    width: 175px;
+    height: 175px !important;
+    margin-bottom: 24px;
+    object-fit: fill;
+}
+}
+ 
